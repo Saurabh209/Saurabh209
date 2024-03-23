@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="457" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">via GIPHY</a></p>
+<img align="right" alt="Koding Image" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlrdm54ODhhaXVqdG1ienN6M2t3d2hyZzVwc2k1MTcxZzY4MGZwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh209&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh209" /> </p>
 
