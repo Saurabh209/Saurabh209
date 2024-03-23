@@ -2,9 +2,8 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Koding Image" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlrdm54ODhhaXVqdG1ienN6M2t3d2hyZzVwc2k1MTcxZzY4MGZwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh209&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh209" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh209" alt="saurabh209" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh209&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh209" /> </p>
 
 - 💬 Ask me about **Html, Css, JavaScript**
 
