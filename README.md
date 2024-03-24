@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" alt="Koding Image" width="500" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpjMng3OTRpN3p1cXNhZHNvbGlmMTI0MjkxajJ1NDl2aTY0MzI3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y0NFayaBeiWEU/giphy.gif">
-
+<img align="right" alt="
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh209&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh209" /> </p>
 
