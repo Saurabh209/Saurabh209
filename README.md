@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" alt="
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh209&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh209" /> </p>
 
