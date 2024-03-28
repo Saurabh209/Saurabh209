@@ -9,7 +9,7 @@
 
 • 🌱 I’m currently learning 'Advance JavaScript'
 
-• 📫 How to reach me "Take a look Around, i am here"
+• 📫 How to reach me "Just look around, you already reached me "
 
 
 <a align="centre" >Get in Touch </a>
