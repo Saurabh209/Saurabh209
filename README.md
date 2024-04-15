@@ -41,8 +41,11 @@
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh209&theme=tokyonight&hide_border=true"/>
     </a>
 </div>
-
-
+   <div align="center">
+     <a href="#">
+        <img width="100%" alt="Streak Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh209&theme=github-compact"/>
+    </a>
+   </div>
 <p align="center">
 <img height="150" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"/></p>
 
